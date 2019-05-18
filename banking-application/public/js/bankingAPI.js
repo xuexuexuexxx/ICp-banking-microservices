@@ -10,12 +10,12 @@
 var url_api_devloper_portal = "https://api.us.apiconnect.ibmcloud.com/spbodieusibmcom-prod/developer-contest/mplbank";
 
 
-// Your API ClientID
-var IBM_CLIENT_ID = "YOUR_CLIENT_ID_HERE";
+var IBM_CLIENT_ID = "915c92f3-4658-4e37-ad80-8d49e036acb9";
 
 
 // Your API ClientSecret
-var IBM_CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE";
+var IBM_CLIENT_SECRET = "X5qC1hS3jH8lV0dQ8lQ8rX1mF7wU2mM6jU3cR0yE4mN8hP6jX0"
+;
 
 
 /*
